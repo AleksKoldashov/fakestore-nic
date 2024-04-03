@@ -1,0 +1,16 @@
+.filter{
+    margin-top: 20px;
+}
+
+.input-filter{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid rgba(64, 134, 244, 1);
+    padding: 20px;
+}
+.input-filter input{
+    margin-top: 5px;
+    width: 200px;
+    height: 20px;
+    border-color: rgba(64, 134, 244, 1);
+}
